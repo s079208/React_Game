@@ -1,0 +1,79 @@
+[
+  {
+    "name": "Assassin's Creed",
+    "gameinfo": [
+      { "quest": "Publisher: ", "answer": "Ubisoft"},
+      { "quest": "Designer: ", "answer": "Maxime Béland"},
+      { "quest": "Release: ", "answer": 2007},
+      { "quest": "Mode: ", "answer": "Single-Player"},
+      { "quest": "Main-Character: ", "answer": "Altaïr Ibn-La'Ahad"},
+      { "quest": "Enemy: ", "answer": "Templars"}
+    ],
+    "Bio": [
+      "In 2012, bartender Desmond Miles is kidnapped by agents of Abstergo Industries, the world's largest pharmaceutical conglomerate, and is taken to the headquarters in Rome, Italy. Under the guidance of Dr. Warren Vidic and his assistant Lucy Stillman, Desmond is forced",
+      "to participate in a series of trials revolving around the 'Animus', a machine capable of translating the genetic memories of his ancestors into a simulated reality. Vidic instructs him to relive the early years of Altaïr Ibn-La'Ahad, a senior member of the Assassin Brotherhood",
+      " during the time of the Third Crusade. His investigation reveals that Altaïr, blinded by arrogance, botched an attempt by the Assassins to retrieve an artifact, the Piece of Eden, from the forces of Robert de Sablé, Grand Master of the Knights Templar, leading to the death of one",
+      "Assassin, and severely wounding another in the process. Though Altaïr manages to partially redeem himself by fighting off a Crusader attack on the Assassin home base of Masyaf, his mentor and superior, Al Mualim, orders him to assassinate nine individuals in order to regain his honor."
+    ]
+  },{
+    "name": "Assassin's Creed II",
+    "gameinfo": [
+      { "quest": "Publisher: ", "answer": "Ubisoft"},
+      { "quest": "Designer: ", "answer": "Benoît Lambert - Patrick Plourde - Olivier Palmieri"},
+      { "quest": "Release: ", "answer": "November 17, 2009"},
+      { "quest": "Mode: ", "answer": "Single-Player"},
+      { "quest": "Main-Character: ", "answer": " Ezio Auditore da Firenze"},
+      { "quest": "Enemy: ", "answer": "Borgia Family - Templars"}
+    ],
+    "Bio": [
+      "After the events of the first game, test subject Desmond Miles is rescued from confinement by undercover Assassin Lucy Stillman and taken toa remote safe house, where he meets her team, consisting of historian and analyst Shaun Hastings and technician Rebecca Crane. Using design plans",
+      "stolen by Lucy, they have constructed their own version of the Animus, dubbed 'Baby', which they intend to use to train Desmond as an Assassin through the so-called 'Bleeding Effect', which allows the user to learn all their ancestor's skills instantly. Desmond is assigned to investigate", 
+      "the memories of his ancestor Ezio Auditore da Firenze, starting with his birth to a wealthy Florentine family in the late 15th century."
+    ]
+  },{
+    "name": "Assassin's Creed III",
+    "gameinfo": [
+      { "quest": "Publisher: ", "answer": "Ubisoft"},
+      { "quest": "Designer: ", "answer": "Steven Masters"},
+      { "quest": "Release: ", "answer": "October 30, 2012"},
+      { "quest": "Mode: ", "answer": "Single-player - multiplayer"},
+      { "quest": "Main-Character: ", "answer": " Connor"},
+      { "quest": "Enemy: ", "answer": "American Revolution - Templars"}
+    ],
+    "Bio": [
+      "Immediately after the events of the previous game, Desmond Miles, along with his father William, and allies Rebecca Crane and Shaun Hastings, find the Grand Temple of the First Civilization in a cave in New York state and access it using their Apple of Eden, an ancient artifact of immense power.", 
+      "After partially activating the temple, Juno uses it to communicate with Desmond. Desmond is placed in the Animus where Juno's influence causes him to experience the life of his ancestor Haytham Kenway in England, 1754.",
+      "Haytham assassinates a patron at the Royal Opera House and steals a medallion; the Key to the Temple's inner chamber. Haytham is dispatched to the American Colonies to locate the Temple. While in Boston, he kills a slave trader, freeing a group of Mohawks including a woman named Kaniehti:io,during the time of the Third Crusade.", 
+      "His investigation reveals that Altaïr, blinded by arrogance, botched an attempt by the Assassins to retrieve an artifact, the Piece of Eden, from the forces of Robert de Sablé, Grand Master of the Knights Templar, leading to the death of one"
+    ]
+  },{
+    "name": "Assassin's Creed IV Black Flag",
+    "gameinfo": [
+      { "quest": "Publisher: ", "answer": "Ubisoft"},
+      { "quest": "Designer: ", "answer": "Eric Baptizat - Jean-Sebastien Decant"},
+      { "quest": "Release: ", "answer": "October 29, 2013"},
+      { "quest": "Mode: ", "answer": "Single-player - multiplayer"},
+      { "quest": "Main-Character: ", "answer": "Edward Kenway - Grandfather of Connor"},
+      { "quest": "Enemy: ", "answer": "Pirates - Templars"}
+    ],
+    "Bio": [
+      "As Edward, the player unravels a conspiracy between high-ranking Templars within the British and Spanish empires who, under the guise of cleaning up piracy in the Caribbean, have used their positions to locate the Sage—later identified as Bartholomew Roberts—who is the only man that can lead them to the Observatory, a First Civilization device which can monitor anyone anywhere in the world when provided a blood sample, which they intend to use to spy on and blackmail world leaders.", 
+      "Edward becomes an unwitting player in their plot when he kills a rogue Assassin, Duncan Walpole. Seeing an opportunity for profit, Edward takes Walpole's place at a meeting of Templars in Havana, where he meets Woodes Rogers as well as Cuban Governor and Templar Grandmaster Laureano Torres. His recklessness endangers the entire Assassins' Order, prompting him to pursue the Sage and the conspirators from the Yucatán Peninsula to Jamaica, eventually catching Roberts on the island of Príncipe off of the African coast."
+    ]
+  },{
+    "name": "Assassin's Creed Odyssey",
+    "gameinfo": [
+      { "quest": "Publisher: ", "answer": "Ubisoft"},
+      { "quest": "Designer: ", "answer": "Julien Galloudec - Jordane Thiboust"},
+      { "quest": "Release: ", "answer": "October 5, 2018"},
+      { "quest": "Mode: ", "answer": "Single-Player"},
+      { "quest": "Main-Character: ", "answer": "Alexios and Kassandra - Depends on who you choose!"},
+      { "quest": "Enemy: ", "answer": "Followers of Ares - Sparta"}
+    ],
+    "Bio": [
+      "During the Battle of Thermopylae, King Leonidas leads the Spartan army against a Persian charge. The encounter is won, but Leonidas is informed by a captured enemy soldier that the existence of the mountain path has been revealed to the Persian army, which is moving to surround the Spartans by morning. Nevertheless, Leonidas resolves to hold off the Persian advance.",
+      "In the present, Layla Hassan recovers the Spear of Leonidas and together with Victoria Bibeau, extracts the DNA of two individuals from it, the siblings Kassandra and Alexios. With help from the Assassins, Layla picks one of the siblings (the 'Misthios' - according to the book adaptation of Odyssey, Kassandra was the Misthios in Assassin's Creed canon) and activates the Animus to find the location of the Staff of Hermes.",
+      "The Misthios started as a young Spartan child, raised by their parents Nikolaos and Myrrine, and inherited the Spear of Leonidas from Myrrine as one of Leonidas' descendants. However, one day, both the Misthios and their siblings are thrown off a mountain due to an oracle's prophecy, with the Misthios being dropped by Nikolaos himself. The Misthios survived the fall and fled to the island of Kephallonia, where they grew up performing odd jobs until the Peloponnesian War begins."
+    ]
+  }
+]
